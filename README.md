@@ -1,4 +1,4 @@
 # login
 
-Check out The outup here:
+Check out The output here:
 https://crashwalker14.github.io/login/
